@@ -71,21 +71,7 @@ describe('', () => {
          
           
         })
-        cy.log(``)
-      
-        // cy.request({
-        //   method: 'POST',
-        //   url: '/posts',
-          
-        // auth: 'olena' ,
-        
-        //   failOnStatusCode: false
-        // }).then( response => {
-        //   expect(response.status).to.be.equal(200);
-         
-          
-        // })
-
+     
       })
       
     })
